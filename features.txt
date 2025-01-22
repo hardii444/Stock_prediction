@@ -1,0 +1,9 @@
+Close
+SMA_20
+SMA_50
+RSI
+MACD
+Signal_Line
+BB_middle
+BB_upper
+BB_lower
